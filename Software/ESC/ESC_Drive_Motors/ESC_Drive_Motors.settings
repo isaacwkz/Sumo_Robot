@@ -1,0 +1,6 @@
+#
+#Sun Oct 06 12:08:22 SGT 2019
+selected.firmware_ver=1.1.0
+selected.cubemx=5.3.0
+selected.toolchain=ST SW4 STM32
+selected.driver=HAL - Hardware Abstraction Layer

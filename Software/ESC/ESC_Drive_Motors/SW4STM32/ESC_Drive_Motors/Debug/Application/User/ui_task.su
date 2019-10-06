@@ -1,0 +1,13 @@
+ui_task.c:41:6:UI_TaskInit	64	static
+ui_task.c:63:13:UI_Scheduler	0	static
+ui_task.c:81:13:UI_DACUpdate	16	static
+ui_task.c:89:13:MC_SetDAC	0	static
+ui_task.c:94:13:MC_SetUserDAC	0	static
+ui_task.c:99:22:GetDAC	0	static
+ui_task.c:104:23:GetMCP	0	static
+ui_task.c:109:13:UI_IdleTimeHasElapsed	0	static
+ui_task.c:119:13:UI_SetIdleTime	0	static
+ui_task.c:124:13:UI_SerialCommunicationTimeOutHasElapsed	0	static
+ui_task.c:135:13:UI_SerialCommunicationATRTimeHasElapsed	0	static
+ui_task.c:146:13:UI_SerialCommunicationTimeOutStop	0	static
+ui_task.c:151:13:UI_SerialCommunicationTimeOutStart	0	static
